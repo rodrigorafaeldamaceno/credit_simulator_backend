@@ -8,6 +8,7 @@ module.exports = {
       cpf,
       ramo,
       data,
+      concorrente,
       taxaCreditoConcorrente,
       descontoCreditoConcorrente,
       taxaDebitoConcorrente,
@@ -22,6 +23,7 @@ module.exports = {
       !cpf ||
       !ramo ||
       !data ||
+      !concorrente ||
       !taxaCreditoConcorrente ||
       !descontoCreditoConcorrente ||
       !taxaDebitoConcorrente ||
@@ -40,6 +42,7 @@ module.exports = {
       cpf,
       ramo,
       data,
+      concorrente,
       taxaCreditoConcorrente,
       descontoCreditoConcorrente,
       taxaDebitoConcorrente,

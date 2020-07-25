@@ -21,6 +21,10 @@ const PropostaSchema = new moongose.Schema({
     type: String,
     required: true
   },
+  concorrente: {
+    type: String,
+    required: true
+  },
   taxaCreditoConcorrente: {
     type: Number,
     required: true
