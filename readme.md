@@ -10,4 +10,4 @@ Backend for this * [App](https://github.com/rodrigorafaeldamaceno/credit_simulat
 
 ![alt text](https://raw.githubusercontent.com/rodrigorafaeldamaceno/credit_simulator/master/assets/readme/proposta.jpeg)
 
-![alt text](https://raw.githubusercontent.com/rodrigorafaeldamaceno/credit_simulator/master/assets/readme/listagem.jpeg)
+![alt text](https://raw.githubusercontent.com/rodrigorafaeldamaceno/credit_simulator/master/assets/readme/propostas.jpeg)
