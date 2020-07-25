@@ -1,4 +1,4 @@
-const PORT = 3333
+var porta = process.env.PORT || 8080;
 
 const express = require('express')
 const routes = require('./routes/routes')
@@ -13,4 +13,4 @@ app.use(cors());
 app.use(express.json());
 app.use(routes);
 
-app.listen(PORT);
+app.listen(porta);
