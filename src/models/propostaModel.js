@@ -46,16 +46,14 @@ const PropostaSchema = new moongose.Schema({
     required: true
   },
   descontoCredito: {
-    type: Number,
-    required: true
+    type: Number
   },
   taxaDebito: {
     type: Number,
     required: true
   },
   descontoDebito: {
-    type: Number,
-    required: true
+    type: Number
   },
 })
 

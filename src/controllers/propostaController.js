@@ -29,9 +29,7 @@ module.exports = {
       !taxaDebitoConcorrente ||
       !descontoDebitoConcorrente ||
       !taxaCredito ||
-      !descontoCredito ||
-      !taxaDebito ||
-      !descontoDebito) {
+      !taxaDebito) {
       res.status(400)
       return res.json({ "erro": "Todos os parâmetros são obrigatórios" })
     }
